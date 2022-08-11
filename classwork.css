@@ -1,0 +1,55 @@
+.den{
+width: 4rem;
+}
+.fent1{  
+    color: black;
+    margin-left: 7rem;
+    margin-top: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+.background2{
+    background-image: url(images/mbr\ pic.jpg);
+    background-size: cover;
+    padding: 30vh;
+
+}
+.boot{
+    font-size: 1.1rem;
+}
+.gett{
+    background-color: #f7d9c4;
+    color: black;
+    font-size: 35px;
+    border-radius: 5px;
+    border-style: none;
+    margin-top: 5rem;
+}
+.card-body{
+    position: relative;
+    right: 50rem;
+    left: 35rem;
+    bottom: 37rem;
+    width: 500px ;
+    height: 30rem;
+    padding: 60px;
+    text-align: center;
+    
+}
+.container-fluid{
+   display: flex; 
+   flex-direction: row;
+   padding-left: 50rem;
+
+}
+.btn-1234{
+    font-size: 35px;
+    border-radius: 5px;
+    border-style: none;
+    margin-top: 2rem;
+    background-color: #dce8eb;
+    border-color: #dce8eb; 
+    color: #49747f;
+    box-shadow: 0 2px 2px 0 rgb(0 0 0 / 20%);
+}
